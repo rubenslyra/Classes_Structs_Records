@@ -1,0 +1,15 @@
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\bin\Debug\net7.0\GerenciamentoMemoria.exe
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\bin\Debug\net7.0\GerenciamentoMemoria.deps.json
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\bin\Debug\net7.0\GerenciamentoMemoria.runtimeconfig.json
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\bin\Debug\net7.0\GerenciamentoMemoria.dll
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\bin\Debug\net7.0\GerenciamentoMemoria.pdb
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\obj\Debug\net7.0\GerenciamentoMemoria.csproj.AssemblyReference.cache
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\obj\Debug\net7.0\GerenciamentoMemoria.GeneratedMSBuildEditorConfig.editorconfig
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\obj\Debug\net7.0\GerenciamentoMemoria.AssemblyInfoInputs.cache
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\obj\Debug\net7.0\GerenciamentoMemoria.AssemblyInfo.cs
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\obj\Debug\net7.0\GerenciamentoMemoria.csproj.CoreCompileInputs.cache
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\obj\Debug\net7.0\GerenciamentoMemoria.dll
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\obj\Debug\net7.0\refint\GerenciamentoMemoria.dll
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\obj\Debug\net7.0\GerenciamentoMemoria.pdb
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\obj\Debug\net7.0\GerenciamentoMemoria.genruntimeconfig.cache
+G:\Dev\GitRvlyra\Code_C#\Curso_C#\Classes_Structs_Records\GerenciamentoMemoria\obj\Debug\net7.0\ref\GerenciamentoMemoria.dll
